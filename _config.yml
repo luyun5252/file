@@ -47,5 +47,8 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 
+- type: git
+  repo: https://github.com/xxx/bbbb.git
+  branch: gh-pages
 
 
