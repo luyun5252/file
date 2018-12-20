@@ -48,7 +48,7 @@ kramdown:
 
 
 - type: git
-  repo: https://github.com/xxx/bbbb.git
+  repo: https://github.com/luyun5252/file.git
   branch: gh-pages
 
 
